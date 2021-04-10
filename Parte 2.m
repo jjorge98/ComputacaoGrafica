@@ -1,3 +1,7 @@
+# Geovana Cordeiro de Oliveira - 1722130073
+# Jorge L. C. O. Júnior - 1812130118
+# Milena N.M. Brito - 1722130027
+
 # Receber nome da imagem
 nome = input ("Informe o nome da imagem com extensão. Exemplo: imagem.png: ", "s");
 
